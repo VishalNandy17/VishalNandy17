@@ -603,7 +603,7 @@ Other          1 hr 15 mins    █░░░░░░░░░░░░░░░�
 
 <br>
 
-<a href="mailto:vishal.nandy@example.com">
+<a href="mailto:nandyvishal17@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
 </a>
 <a href="https://t.me/vishalnandy">
