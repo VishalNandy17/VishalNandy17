@@ -456,10 +456,10 @@ const collaborationInterests = {
 <div align="center">
 
 <a href="https://github.com/VishalNandy17/defi-protocol">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=defi-protocol&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=harvest-link-chain&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" />
 </a>
 <a href="https://github.com/VishalNandy17/nft-marketplace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=nft-marketplace&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=URL_SHORTNER&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" />
 </a>
 
 <a href="https://github.com/VishalNandy17/dao-governance">
