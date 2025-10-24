@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=650&lines=Blockchain+Engineer+%F0%9F%94%97;WEB3+Developer+%F0%9F%8C%90;Smart+Contract+Architect+%F0%9F%93%9C;DeFi+%26+dApp+Builder+%F0%9F%92%B0;Full+Stack+Engineer+%F0%9F%92%BB;Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=650&lines=Blockchain+Engineer+%F0%9F%94%97" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -73,62 +73,157 @@ contract VishalNandy {
   
 ## ⚡ Tech Arsenal
 
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
 </div>
+
+<br>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### 🔗 Blockchain & WEB3 Ecosystem
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,rust,go" alt="Blockchain Languages" />
-</p>
+```yaml
+Smart_Contracts:
+  - Solidity ⟠
+  - Rust 🦀
+  - Go 🔷
+  
+Blockchain_Networks:
+  - Ethereum 💎
+  - Polygon 🟣
+  - Binance Smart Chain 💛
+  - Avalanche 🔺
+  - Arbitrum 🔵
+  
+Development_Tools:
+  - Hardhat 👷
+  - Truffle 🍫
+  - Foundry ⚒️
+  - Remix 🎛️
+  - Ganache 🥫
+  
+Web3_Libraries:
+  - Web3.js 🌐
+  - Ethers.js 📡
+  - Wagmi ⚡
+  - RainbowKit 🌈
+  
+Smart_Contract_Standards:
+  - ERC-20 (Tokens) 🪙
+  - ERC-721 (NFTs) 🎨
+  - ERC-1155 (Multi-Token) 🎭
+  - ERC-4337 (Account Abstraction) 🔐
+  
+DeFi_Protocols:
+  - Uniswap 🦄
+  - Aave 👻
+  - Compound 🏦
+  - Curve 📈
+  
+Infrastructure:
+  - IPFS 📦
+  - The Graph 📊
+  - Chainlink 🔗
+  - Alchemy 🧪
+  - Infura 🌉
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=00F7FF" alt="Ethereum" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=00F7FF" alt="Solidity" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=00F7FF" alt="Web3.js" />
-  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethers&logoColor=00F7FF" alt="Ethers.js" />
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=00F7FF" alt="Polygon" />
-  <img src="https://img.shields.io/badge/Binance_Smart_Chain-F3BA2F?style=for-the-badge&logo=binance&logoColor=black" alt="BSC" />
-  <img src="https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=00F7FF" alt="Avalanche" />
-  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=00F7FF" alt="Chainlink" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=black" alt="IPFS" />
-  <img src="https://img.shields.io/badge/Metamask-F6851B?style=for-the-badge&logo=metamask&logoColor=00F7FF" alt="Metamask" />
-  <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=00F7FF" alt="WalletConnect" />
-  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=00F7FF" alt="OpenZeppelin" />
-  <img src="https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge&logo=truffle&logoColor=00F7FF" alt="Truffle" />
-</p>
+</td>
+<td width="50%" valign="top">
 
 ### 💻 Full Stack Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,html,css,tailwind,redux" alt="Frontend" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=express,mongodb,postgresql,mysql,redis,graphql,prisma" alt="Backend" />
-</p>
+```yaml
+Frontend:
+  - React ⚛️
+  - Next.js ▲
+  - TypeScript 📘
+  - Tailwind CSS 🎨
+  - Redux 🔄
+  - Zustand 🐻
+  
+Backend:
+  - Node.js 💚
+  - Express.js 🚂
+  - NestJS 🦅
+  - GraphQL 📈
+  - REST APIs 🔌
+  
+Databases:
+  - MongoDB 🍃
+  - PostgreSQL 🐘
+  - Redis ⚡
+  - MySQL 🐬
+  - Prisma ORM 🔷
+  
+Authentication:
+  - JWT 🎫
+  - OAuth 2.0 🔐
+  - Web3Auth 🌐
+  - Magic Link ✨
+```
 
 ### ☁️ Cloud & DevOps
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux" alt="Cloud" />
-</p>
+```yaml
+Cloud_Platforms:
+  - AWS ☁️
+  - Google Cloud Platform 🌥️
+  - Azure ⛅
+  - Vercel 🔺
+  
+Containerization:
+  - Docker 🐳
+  - Kubernetes ⚓
+  
+CI/CD:
+  - GitHub Actions 🤖
+  - Jenkins 🔧
+  - GitLab CI 🦊
+  
+Monitoring:
+  - Prometheus 📊
+  - Grafana 📈
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,terraform,nginx" alt="DevOps" />
-</p>
+</td>
+</tr>
+</table>
 
-### 🛠️ Tools & Technologies
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,yarn,vercel" alt="Tools" />
-</p>
+<div align="center">
+
+### 🎯 Core Blockchain Technologies
+
+<img src="https://skillicons.dev/icons?i=solidity,rust,go,typescript,javascript" alt="Languages" />
+<br><br>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethers&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=00F7FF" />
+<br>
+<img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=black" />
+<img src="https://img.shields.io/badge/TheGraph-0C0A1C?style=for-the-badge&logo=thegraph&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Metamask-F6851B?style=for-the-badge&logo=metamask&logoColor=00F7FF" />
+
+### 🛠️ Development Stack
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,mongodb,postgresql,docker,aws" alt="Stack" />
+
+</div>
 
 ---
 
@@ -162,7 +257,13 @@ contract VishalNandy {
 
 ## 📈 Contribution Snake 🐍
 
-![Snake animation](https://raw.githubusercontent.com/VishalNandy17/VishalNandy17/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishalNandy17/VishalNandy17/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishalNandy17/VishalNandy17/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VishalNandy17/VishalNandy17/output/github-contribution-grid-snake.svg">
+</picture>
+
+_🔄 The snake animation will appear here once the GitHub Action workflow runs successfully!_
 
 </div>
 
