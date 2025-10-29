@@ -4,17 +4,14 @@
 
 <div align="center">
   
-  <!-- 3D Animated Title -->
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00F7FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%94%97+Architecting+Decentralized+Systems;%F0%9F%8C%90+Building+the+WEB3+Future;%E2%9A%A1+Innovating+with+Blockchain;%F0%9F%9A%80+Crafting+Smart+Contracts" alt="3D Typing Effect" />
   
 </div>
 
-<!-- Holographic Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </p>
 
-<!-- Professional Badges with 3D Effect -->
 <div align="center">
   
   [![Portfolio](https://custom-icon-badges.demolab.com/badge/-🌐_Portfolio-00F7FF?style=for-the-badge&logoColor=black&logo=rocket)](https://vishal-phi-drab.vercel.app/)
@@ -32,14 +29,12 @@
 
 <br>
 
-<!-- Animated Line -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
 
 <br>
 
-<!-- 3D Cube Gif -->
 <img align="right" alt="Blockchain 3D" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
@@ -88,7 +83,6 @@ console.log("🚀 Ready to innovate and disrupt!");
 
 <br clear="right"/>
 
-<!-- Glowing Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
@@ -150,7 +144,6 @@ console.log("🚀 Ready to innovate and disrupt!");
 </tr>
 </table>
 
-<!-- 3D Tech Stack Section -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
@@ -291,7 +284,6 @@ console.log("🚀 Ready to innovate and disrupt!");
 
 <br>
 
-<!-- Animated Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
@@ -314,14 +306,12 @@ console.log("🚀 Ready to innovate and disrupt!");
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalNandy17&theme=radical&hide_border=true" alt="Profile Summary" width="98%" />
 </div>
 
-<!-- 3D Contribution Graph -->
 <div align="center">
-  <img src="https://ghchart.rshah.org/00F7FF/VishalNandy17" alt="3D Contribution Chart" width="98%" />
+  <img src="https://ghchart.rshah.org/00F7FF/VishalNandy17" alt="Contribution Chart" width="98%" />
 </div>
 
 <br>
 
-<!-- Glowing Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
@@ -334,7 +324,59 @@ console.log("🚀 Ready to innovate and disrupt!");
 
 <br>
 
-<!-- Animated Bar -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</p>
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40" /> Featured Projects - MacBook Style
+
+<div align="center">
+
+<!-- Project 1 -->
+
+</table>
+
+<!-- Auto-Generated Repository Cards -->
+<a href="https://github.com/VishalNandy17?tab=repositories&sort=stargazers">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=defi-protocol&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" width="48%" />
+</a>
+<a href="https://github.com/VishalNandy17?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=harvest-link-chain&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" width="48%" />
+</a>
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Real Repository Cards - Update with your actual repo names -->
+<p align="center">
+  <a href="https://github.com/VishalNandy17">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=RetroC&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF" width="48%" />
+  </a>
+  <a href="https://github.com/VishalNandy17">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=cloud-x&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF" width="48%" />
+  </a>
+</p>
+
+<br>
+
+> 💡 **How to Customize:** Replace `&repo=VishalNandy17` with your actual repository names in the URLs above. The cards will automatically fetch live data including stars, forks, language, and description!
+
+<br>
+
+<!-- All Repositories Link -->
+<a href="https://github.com/VishalNandy17?tab=repositories">
+  <img src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-00F7FF?style=for-the-badge&logo=repo&logoColor=black" height="40" />
+</a>
+
+</div>
+
+<br>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
@@ -352,21 +394,25 @@ console.log("🚀 Ready to innovate and disrupt!");
   Status: In Development
   Stack: Solidity, React, The Graph
   Progress: ████████░░ 80%
+  Repo: github.com/VishalNandy17/defi-aggregator
 
 ⚡ Layer 2 Scaling Solution:
   Status: Research Phase
   Stack: Optimism, Arbitrum
   Progress: ███░░░░░░░ 30%
+  Repo: github.com/VishalNandy17/layer2-solution
 
 🎨 NFT Marketplace v2.0:
   Status: Testing
   Stack: Next.js, IPFS, Polygon
   Progress: ███████░░░ 70%
+  Repo: github.com/VishalNandy17/nft-marketplace
 
 🤖 Smart Contract Auditor AI:
   Status: Prototype
   Stack: Python, TensorFlow
   Progress: ████░░░░░░ 40%
+  Repo: github.com/VishalNandy17/contract-auditor
 ```
 
 </td>
@@ -446,34 +492,6 @@ const collaborationInterests = {
 
 <br>
 
-<!-- Holographic Line -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</p>
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40" /> Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/VishalNandy17/defi-protocol">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=defi-protocol&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" />
-</a>
-<a href="https://github.com/VishalNandy17/nft-marketplace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=nft-marketplace&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" />
-</a>
-
-<a href="https://github.com/VishalNandy17/dao-governance">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=dao-governance&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" />
-</a>
-<a href="https://github.com/VishalNandy17/smart-contract-auditor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=smart-contract-auditor&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" />
-</a>
-
-</div>
-
-<br>
-
-<!-- Animated Separator -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
@@ -487,6 +505,7 @@ interface Article {
   topic: string;
   readTime: string;
   status: string;
+  link: string;
 }
 
 const recentArticles: Article[] = [
@@ -494,33 +513,42 @@ const recentArticles: Article[] = [
     title: "🔐 Deep Dive: Reentrancy Attacks",
     topic: "Smart Contract Security",
     readTime: "12 min",
-    status: "Published ✅"
+    status: "Published ✅",
+    link: "medium.com/@vishalnandy"
   },
   {
     title: "⚡ Gas Optimization Techniques",
     topic: "Solidity Best Practices", 
     readTime: "8 min",
-    status: "Published ✅"
+    status: "Published ✅",
+    link: "medium.com/@vishalnandy"
   },
   {
     title: "🌉 Building Cross-Chain Bridges",
     topic: "Blockchain Architecture",
     readTime: "15 min",
-    status: "Draft 📝"
+    status: "Draft 📝",
+    link: "medium.com/@vishalnandy"
   },
   {
     title: "🎨 NFT Metadata Standards",
     topic: "Web3 Development",
     readTime: "10 min",
-    status: "Published ✅"
+    status: "Published ✅",
+    link: "medium.com/@vishalnandy"
   }
 ];
 ```
 <!-- BLOG-POST-LIST:END -->
 
+<div align="center">
+  <a href="https://medium.com/@vishalnandy">
+    <img src="https://img.shields.io/badge/Read_More_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35" />
+  </a>
+</div>
+
 <br>
 
-<!-- Neon Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
@@ -553,7 +581,6 @@ Other          1 hr 15 mins    █░░░░░░░░░░░░░░░�
 
 <br>
 
-<!-- Glowing Animation -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
@@ -572,7 +599,6 @@ Other          1 hr 15 mins    █░░░░░░░░░░░░░░░�
 
 <br>
 
-<!-- Animated Tech Bar -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
@@ -609,7 +635,7 @@ Other          1 hr 15 mins    █░░░░░░░░░░░░░░░�
 <a href="https://t.me/vishalnandy">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" />
 </a>
-<a href="https://discord.gg/yourserver">
+<a href="https://discord.com/users/vishalnandy">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
 </a>
 <a href="https://medium.com/@vishalnandy">
@@ -624,7 +650,7 @@ Other          1 hr 15 mins    █░░░░░░░░░░░░░░░�
 <br>
 
 ### 📧 Professional Inquiries
-**Email:** vishal.nandy@example.com  
+**Email:** nandyvishal17@gmail.com  
 **Available for:** Freelance Projects | Consulting | Speaking Engagements
 
 <br>
@@ -664,7 +690,6 @@ Other          1 hr 15 mins    █░░░░░░░░░░░░░░░�
 
 <br>
 
-<!-- Neon Separator -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
@@ -714,7 +739,6 @@ Other          1 hr 15 mins    █░░░░░░░░░░░░░░░�
 
 <br>
 
-<!-- Holographic Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
@@ -746,7 +770,6 @@ const myPhilosophy = {
 
 <br>
 
-<!-- Animated Line -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
