@@ -364,10 +364,6 @@ console.log("🚀 Ready to innovate and disrupt!");
 
 <br>
 
-> 💡 **How to Customize:** Replace `&repo=VishalNandy17` with your actual repository names in the URLs above. The cards will automatically fetch live data including stars, forks, language, and description!
-
-<br>
-
 <!-- All Repositories Link -->
 <a href="https://github.com/VishalNandy17?tab=repositories">
   <img src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-00F7FF?style=for-the-badge&logo=repo&logoColor=black" height="40" />
