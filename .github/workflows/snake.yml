@@ -5,41 +5,62 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   
-  # Allow manual trigger
+  # Allow manual trigger from Actions tab
   workflow_dispatch:
   
-  # Run on every push to main
+  # Run on every push to main branch
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     
     steps:
-      # Checkout the repository
+      # Checkout the repository with full history
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       
-      # Generate the snake animation
-      - name: Generate github-contribution-grid-snake.svg
+      # Generate multiple snake animation variants
+      - name: Generate snake animations
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: VishalNandy17
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/ocean.svg?color_snake=#00a6ff&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/fire.svg?color_snake=#ff6b35&color_dots=#ebedf0,#ffcc80,#ff9800,#f57c00,#e65100
+            dist/purple.svg?color_snake=#9d4edd&color_dots=#ebedf0,#dda0dd,#ba55d3,#9932cc,#6a0dad
+            dist/neon.svg?color_snake=#39ff14&color_dots=#0a0a0a,#1a1a2e,#16213e,#0f3460,#533483
       
-      # Push the generated files to the output branch
-      - name: Push github-contribution-grid-snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      # Push generated files to output branch
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "Update snake animations"
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      # Optional: Create a summary
+      - name: Generate job summary
+        if: always()
+        run: |
+          echo "### 🐍 Snake Animation Generated Successfully! " >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Generated files:" >> $GITHUB_STEP_SUMMARY
+          echo "- Default theme" >> $GITHUB_STEP_SUMMARY
+          echo "- Dark theme" >> $GITHUB_STEP_SUMMARY
+          echo "- Ocean theme" >> $GITHUB_STEP_SUMMARY
+          echo "- Fire theme" >> $GITHUB_STEP_SUMMARY
+          echo "- Purple theme" >> $GITHUB_STEP_SUMMARY
+          echo "- Neon theme" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "View them at: https://raw.githubusercontent.com/VishalNandy17/VishalNandy17/output/" >> $GITHUB_STEP_SUMMARY
