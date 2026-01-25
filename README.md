@@ -1,205 +1,355 @@
 <div align="center">
 
-<!-- Animated Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishal%20Nandy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Blockchain%20Protocol%20Engineer%20|%20Building%20the%20Future&descAlignY=51&descAlign=50" />
+<!-- 3D Animated Header -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=219138&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Vishal!;Blockchain+Protocol+Engineer+⛓️;Building+Decentralized+Solutions;Smart+Contracts+%26+DApps+Developer;Open+Source+Contributor+💚" alt="Typing SVG" />
+<!-- Holographic Title with 3D Effect -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1500&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=VISHAL+NANDY" alt="Name" />
+</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=00FFA3&center=true&vCenter=true&width=800&lines=Blockchain+Protocol+Engineer+%E2%9B%93;Smart+Contract+Security+Specialist+%F0%9F%94%90;Building+Decentralized+Future+%F0%9F%8C%90;Web3+Innovation+%26+DeFi+Architect+%F0%9F%92%8E" alt="Roles" />
+
+<br/><br/>
+
+<!-- 3D Contribution Calendar -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution" />
+
+<!-- If above doesn't work, use this alternative -->
+<a href="https://github.com/VishalNandy17">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalNandy17&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00FFA3&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalNandy17&theme=chartreuse-dark&hide_border=true&background=00000000&stroke=00FFA3&ring=00D9FF&fire=00FFA3&currStreakLabel=FFFFFF" height="180" />
 </a>
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<!-- Isometric Contribution Graph (3D Style) -->
+<img src="https://ghchart.rshah.org/00FFA3/VishalNandy17" alt="Contribution Chart" width="90%" />
+
+<br/><br/>
+
+<!-- 3D GitHub Skyline (requires separate generation but shown as placeholder) -->
+<a href="https://skyline.github.com/VishalNandy17/2024">
+  <img src="https://img.shields.io/badge/View_My_3D_Skyline-100000?style=for-the-badge&logo=github&logoColor=00FFA3&labelColor=000000&color=000000" />
+</a>
 
 </div>
 
-## 🚀 About Me
+---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## 🎮 INTERACTIVE PROFILE DASHBOARD
 
-```typescript
-const vishal = {
-    location: "Building in Web3 🌐",
-    role: "Blockchain Protocol Engineer",
-    code: ["Solidity", "Rust", "JavaScript", "TypeScript", "Python"],
-    focus: ["Smart Contracts", "DeFi", "DAOs", "NFTs"],
-    technologies: {
-        blockchain: ["Ethereum", "Polygon", "Solana", "Hyperledger"],
-        frameworks: ["Hardhat", "Foundry", "Truffle", "Anchor"],
-        tools: ["IPFS", "The Graph", "Chainlink", "OpenZeppelin"],
-        frontend: ["React", "Next.js", "Web3.js", "Ethers.js"]
-    },
-    currentlyLearning: "Zero-Knowledge Proofs & Layer 2 Solutions",
-    funFact: "I debug smart contracts in my sleep 😴"
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════════════════════════════════╗
+║                    BLOCKCHAIN PROTOCOL ENGINEER                   ║
+║                           STATUS: ACTIVE                          ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🎯 FOCUS AREAS                                                   ║
+║  ├─ Smart Contract Architecture & Security                        ║
+║  ├─ DeFi Protocol Development                                     ║
+║  ├─ Zero-Knowledge Proof Systems                                  ║
+║  └─ Cross-Chain Bridge Engineering                                ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ⚡ CURRENT STACK                                                 ║
+║  ├─ Solidity | Rust | Move                                        ║
+║  ├─ Hardhat | Foundry | Anchor                                    ║
+║  ├─ React | Next.js | TypeScript                                  ║
+║  └─ Ethers.js | Web3.js | viem                                    ║
+╠══════════════════════════════════════════════════════════════════╣
+║  📊 STATS OVERVIEW                                                ║
+║  ├─ Total Commits (2024): 1,337+                                  ║
+║  ├─ Smart Contracts Deployed: 50+                                 ║
+║  ├─ Active Projects: 12                                           ║
+║  └─ Coffee Consumed: ∞                                            ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🛸 3D TECH STACK GALAXY
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⛓️ BLOCKCHAIN LAYER
+```javascript
+const blockchain = {
+  platforms: [
+    "🔷 Ethereum",
+    "🟣 Polygon", 
+    "🔵 Solana",
+    "🟢 Avalanche",
+    "🔴 Arbitrum"
+  ],
+  languages: [
+    "📜 Solidity",
+    "🦀 Rust", 
+    "⚡ Move",
+    "🔧 Vyper"
+  ],
+  frameworks: [
+    "⚒️ Hardhat",
+    "🔨 Foundry",
+    "🏗️ Truffle",
+    "⚓ Anchor"
+  ]
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="50%" valign="top">
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+### 🌐 WEB3 INTEGRATION
+```typescript
+const web3Stack = {
+  libraries: [
+    "📚 Ethers.js",
+    "🕸️ Web3.js",
+    "⚡ viem",
+    "🔗 Wagmi"
+  ],
+  storage: [
+    "🗂️ IPFS",
+    "💾 Arweave",
+    "📦 Filecoin"
+  ],
+  oracles: [
+    "🔗 Chainlink",
+    "📊 Band Protocol",
+    "🌐 API3"
+  ]
+};
+```
 
-## 🛠️ Tech Stack & Tools
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+### 💻 DEVELOPMENT TOOLS
+```python
+tools = {
+    "editors": ["VS Code", "Remix"],
+    "testing": ["Mocha", "Chai", "Waffle"],
+    "security": ["Slither", "Mythril", "Echidna"],
+    "deployment": ["Docker", "Kubernetes"],
+    "monitoring": ["Tenderly", "The Graph"]
+}
+```
 
-### Blockchain & Web3
-<p>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" />
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" />
-  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="Chainlink" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-### Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
+### 🎨 FRONTEND STACK
+```jsx
+const frontend = {
+  frameworks: ["React ⚛️", "Next.js 🚀"],
+  styling: ["TailwindCSS 🎨", "Framer Motion ✨"],
+  state: ["Redux 📦", "Zustand 🐻"],
+  web3UI: ["RainbowKit 🌈", "ConnectKit 🔌"],
+  data: ["Apollo Client 🚀", "React Query ⚡"]
+};
+```
 
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+</td>
+</tr>
+</table>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalNandy17&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=219138&icon_color=219138&text_color=FFFFFF" width="49%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=VishalNandy17&theme=algolia&hide_border=true&background=0D1117&ring=219138&fire=219138&currStreakLabel=219138" width="49%" alt="GitHub Streak" />
-</div>
+## 📊 3D ANALYTICS DASHBOARD
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalNandy17&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=219138&text_color=FFFFFF" width="49%" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalNandy17&theme=react-dark&hide_border=true&bg_color=0D1117&color=219138&line=219138&point=FFFFFF" width="98%" alt="Contribution Graph" />
+
+<!-- Trophy Cabinet in 3D Style -->
+<img src="https://github-profile-trophy.vercel.app/?username=VishalNandy17&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%" />
+
+<br/>
+
+<!-- Detailed Statistics Grid -->
+<img src="https://github-readme-stats.vercel.app/api?username=VishalNandy17&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=00D9FF&text_color=FFFFFF&custom_title=⚡+GitHub+Statistics&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalNandy17&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=FFFFFF&langs_count=8&custom_title=💻+Language+Distribution" width="49%" />
+
+<br/>
+
+<!-- Advanced Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalNandy17&bg_color=0D1117&color=00FFA3&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=📈+Contribution+Activity+Graph" width="100%" />
+
+<br/>
+
+<!-- Streak Stats with 3D Effect -->
+<img src="https://streak-stats.demolab.com/?user=VishalNandy17&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FFA3&ring=00D9FF&fire=00FFA3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFA3&sideLabels=00D9FF&dates=FFFFFF" width="70%" />
+
 </div>
 
-<!-- Trophy Section -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishalNandy17&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10&no-bg=true" width="100%" alt="Trophies" />
-</div>
+---
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-## 🎯 Current Focus
+## 🎯 CURRENT MISSION OBJECTIVES
 
 <div align="center">
 
 ```mermaid
-mindmap
-  root((Vishal's Focus))
-    Smart Contracts
-      Security Audits
-      Gas Optimization
-      Upgradeable Patterns
-    DeFi Protocols
-      AMM Development
-      Yield Farming
-      Staking Mechanisms
-    Web3 Integration
-      Wallet Connect
-      IPFS Storage
-      The Graph APIs
-    Learning
-      ZK Proofs
-      Layer 2 Solutions
-      Cross-chain Bridges
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#0D1117','primaryTextColor':'#00FFA3','primaryBorderColor':'#00D9FF','lineColor':'#00FFA3','secondaryColor':'#1a1b27','tertiaryColor':'#0D1117'}}}%%
+graph TB
+    A[🚀 VISHAL'S WEB3 JOURNEY] --> B[Smart Contracts]
+    A --> C[DeFi Protocols]
+    A --> D[Security Audits]
+    A --> E[Innovation]
+    
+    B --> B1[Gas Optimization]
+    B --> B2[Upgradeable Patterns]
+    B --> B3[ERC Standards]
+    
+    C --> C1[AMM Development]
+    C --> C2[Yield Aggregators]
+    C --> C3[Liquidity Mining]
+    
+    D --> D1[Vulnerability Testing]
+    D --> D2[Formal Verification]
+    D --> D3[Best Practices]
+    
+    E --> E1[ZK Proofs]
+    E --> E2[Layer 2 Solutions]
+    E --> E3[Cross-chain Bridges]
+    
+    style A fill:#00FFA3,stroke:#00D9FF,stroke-width:4px,color:#000
+    style B fill:#1a1b27,stroke:#00FFA3,stroke-width:2px,color:#00FFA3
+    style C fill:#1a1b27,stroke:#00FFA3,stroke-width:2px,color:#00FFA3
+    style D fill:#1a1b27,stroke:#00FFA3,stroke-width:2px,color:#00FFA3
+    style E fill:#1a1b27,stroke:#00FFA3,stroke-width:2px,color:#00FFA3
 ```
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+---
 
-## 🌐 Connect With Me
+## 🌐 NETWORK CONNECTIONS
 
 <div align="center">
 
-<a href="https://linkedin.com/in/vishal-nandy-7a04a427b" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://linkedin.com/in/vishal-nandy-7a04a427b">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="40" />
 </a>
-<a href="https://vishal-phi-drab.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<br/>
+<sub><b>Professional Network</b></sub>
+</td>
+<td align="center" width="25%">
+<a href="https://vishal-phi-drab.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-00FFA3?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000" height="40" />
 </a>
-<a href="https://twitter.com/vishalnandy17" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+<br/>
+<sub><b>Projects Showcase</b></sub>
+</td>
+<td align="center" width="25%">
+<a href="https://twitter.com/vishalnandy17">
+<img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" height="40" />
 </a>
-<a href="mailto:your.email@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<br/>
+<sub><b>Tech Updates</b></sub>
+</td>
+<td align="center" width="25%">
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="40" />
+</a>
+<br/>
+<sub><b>Direct Contact</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💎 SUPPORT THE MISSION
+
+<a href="https://ko-fi.com/vishalnandy">
+  <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=000000" height="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/vishalnandy">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=000000" height="45" />
+</a>
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS & BADGES
+
+<div align="center">
+
+<!-- Holopin Badges (3D Style) -->
+<a href="https://holopin.io/@vishalnandy17">
+  <img src="https://holopin.me/vishalnandy17" alt="Holopin Badges" />
 </a>
 
 <br/><br/>
 
-### 💚 Support My Work
-
-<a href="https://ko-fi.com/vishalnandy" target="_blank">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-</a>
-<a href="https://www.buymeacoffee.com/vishalnandy" target="_blank">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-</a>
+<!-- Skill Badges in 3D Grid -->
+<img src="https://skillicons.dev/icons?i=solidity,rust,js,ts,react,nextjs,nodejs,python,docker,kubernetes,git,github,vscode,linux,postgres,mongodb,redis,graphql,tailwind,figma&perline=10" />
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  
-[![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VishalNandy17&theme=react-dark&hide_border=true&bg_color=0D1117&color=219138&line=219138&point=FFFFFF&area=true&area_color=219138)](https://github.com/VishalNandy17)
-
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VishalNandy17/VishalNandy17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-## 💭 Random Dev Quote
+## 🎨 3D CONTRIBUTION HEATMAP
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it&author=Blockchain%20Enthusiast)
+<!-- Enhanced Contribution Calendar -->
+<img src="https://ssr-contributions-svg.vercel.app/_/VishalNandy17?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=40&theme=pink" width="90%" />
 
 </div>
 
-<!-- Visitor Counter -->
+---
+
+## 📈 REAL-TIME METRICS
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VishalNandy17&label=Profile%20Views&color=219138&style=for-the-badge" alt="Profile views" />
+
+<!-- WakaTime Stats (requires setup) -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=VishalNandy17&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=FFFFFF&layout=compact&custom_title=📊+Weekly+Coding+Activity" width="70%" />
+
+<br/><br/>
+
+<!-- Profile Views Counter with 3D Effect -->
+<img src="https://komarev.com/ghpvc/?username=VishalNandy17&label=PROFILE+VIEWS&color=00FFA3&style=for-the-badge&labelColor=000000" />
+
 </div>
 
-<br/>
+---
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+## 💭 DEVELOPER WISDOM
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Decentralization%20is%20not%20just%20a%20technology,%20it's%20a%20movement%20towards%20freedom&author=Anonymous%20Web3%20Builder&border=true" width="70%" />
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
-  <b>Made with ❤️ by Vishal Nandy</b>
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+
+### 🔮 BUILD • INNOVATE • DECENTRALIZE
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,6,12,20&height=50&section=footer&text=Thank%20You%20For%20Visiting&fontSize=16&fontColor=fff&animation=twinkling" width="100%" />
+
+<br/>
+
+**⭐ Star my repositories if you find them interesting!**
+
+<img src="https://img.shields.io/github/stars/VishalNandy17?style=social" />
+
 </div>
