@@ -8,23 +8,23 @@
 
 <br/>
 
-<!-- Github Stats (Dark Minimal) -->
+<!-- Github Stats -->
 <a href="https://github.com/VishalNandy17">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VishalNandy17&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VishalNandy17&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
-<!-- Streak Stats (Dark Minimal) -->
+<!-- Reliable Streak Stats -->
 <a href="https://github.com/VishalNandy17">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalNandy17&theme=transparent&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=white&sideNums=8b949e&sideLabels=8b949e" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=VishalNandy17&theme=react&hide_border=true&background=0D1117" />
 </a>
 
 <br/>
 <br/>
 
-<!-- Activity Graph (Last 31 Days) -->
-<br/>
+<!-- Classic Contribution Graph (Green Board) -->
+<h3 align="center">Contribution History</h3>
 <a href="https://github.com/VishalNandy17">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalNandy17&theme=react-dark&hide_border=true&area=true" width="90%" />
+  <img src="https://ghchart.rshah.org/VishalNandy17" alt="VishalNandy17's Github Chart" width="100%" />
 </a>
 
 </div>
