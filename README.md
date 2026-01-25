@@ -24,7 +24,7 @@
 <!-- Classic Contribution Graph (Green Board) -->
 <h3 align="center">Contribution History</h3>
 <a href="https://github.com/VishalNandy17">
-  <img src="https://ghchart.rshah.org/VishalNandy17" alt="VishalNandy17's Github Chart" width="100%" />
+  <img src="https://ghchart.rshah.org/219138/VishalNandy17" alt="VishalNandy17's Github Chart" width="100%" />
 </a>
 
 </div>
