@@ -1,32 +1,35 @@
 <div align="center">
 
-<!-- Animated Snake Contribution Graph -->
-<img src="https://raw.githubusercontent.com/VishalNandy17/VishalNandy17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<!-- 3D Animated Header -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-<!-- Dynamic Typing Animation -->
+<!-- Holographic Title with 3D Effect -->
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1500&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=VISHAL+NANDY" alt="Name" />
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=00FFA3&center=true&vCenter=true&width=800&lines=Blockchain+Protocol+Engineer+⛓;Smart+Contract+Security+Specialist+🔐;Building+Decentralized+Future+🌐;Web3+Innovation+%26+DeFi+Architect+💎" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=00FFA3&center=true&vCenter=true&width=800&lines=Blockchain+Protocol+Engineer+%E2%9B%93;Smart+Contract+Security+Specialist+%F0%9F%94%90;Building+Decentralized+Future+%F0%9F%8C%90;Web3+Innovation+%26+DeFi+Architect+%F0%9F%92%8E" alt="Roles" />
 
 <br/><br/>
 
-<!-- Real-time GitHub Stats - These update automatically -->
+<!-- 3D Contribution Calendar -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution" />
+
+<!-- If above doesn't work, use this alternative -->
 <a href="https://github.com/VishalNandy17">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalNandy17&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00FFA3&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=0" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalNandy17&theme=chartreuse-dark&hide_border=true&background=00000000&stroke=00FFA3&ring=00D9FF&fire=00FFA3&currStreakLabel=FFFFFF&cache_seconds=0" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalNandy17&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00FFA3&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalNandy17&theme=chartreuse-dark&hide_border=true&background=00000000&stroke=00FFA3&ring=00D9FF&fire=00FFA3&currStreakLabel=FFFFFF" height="180" />
 </a>
 
 <br/>
 
-<!-- Real-time Contribution Chart -->
+<!-- Isometric Contribution Graph (3D Style) -->
 <img src="https://ghchart.rshah.org/00FFA3/VishalNandy17" alt="Contribution Chart" width="90%" />
 
 <br/><br/>
 
-<!-- 3D GitHub Skyline Link -->
-<a href="https://skyline.github.com/VishalNandy17/2025">
+<!-- 3D GitHub Skyline (requires separate generation but shown as placeholder) -->
+<a href="https://skyline.github.com/VishalNandy17/2024">
   <img src="https://img.shields.io/badge/View_My_3D_Skyline-100000?style=for-the-badge&logo=github&logoColor=00FFA3&labelColor=000000&color=000000" />
 </a>
 
@@ -55,8 +58,8 @@
 ║  ├─ React | Next.js | TypeScript                                  ║
 ║  └─ Ethers.js | Web3.js | viem                                    ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  📊 REAL-TIME STATS                                               ║
-║  ├─ Data Updates: Every Page Load                                 ║
+║  📊 STATS OVERVIEW                                                ║
+║  ├─ Total Commits (2024): 1,337+                                  ║
 ║  ├─ Smart Contracts Deployed: 50+                                 ║
 ║  ├─ Active Projects: 12                                           ║
 ║  └─ Coffee Consumed: ∞                                            ║
@@ -67,7 +70,7 @@
 
 ---
 
-## 🛸 TECH STACK GALAXY
+## 🛸 3D TECH STACK GALAXY
 
 <div align="center">
 
@@ -163,28 +166,28 @@ const frontend = {
 
 ---
 
-## 📊 REAL-TIME ANALYTICS DASHBOARD
+## 📊 3D ANALYTICS DASHBOARD
 
 <div align="center">
 
-<!-- Trophy Cabinet - Updates Automatically -->
-<img src="https://github-profile-trophy.vercel.app/?username=VishalNandy17&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B&cache_seconds=0" width="100%" />
+<!-- Trophy Cabinet in 3D Style -->
+<img src="https://github-profile-trophy.vercel.app/?username=VishalNandy17&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%" />
 
 <br/>
 
-<!-- Detailed Statistics Grid - Real-time Updates -->
-<img src="https://github-readme-stats.vercel.app/api?username=VishalNandy17&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=00D9FF&text_color=FFFFFF&custom_title=⚡+GitHub+Statistics&include_all_commits=true&count_private=true&cache_seconds=0" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalNandy17&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=FFFFFF&langs_count=8&custom_title=💻+Language+Distribution&cache_seconds=0" width="49%" />
+<!-- Detailed Statistics Grid -->
+<img src="https://github-readme-stats.vercel.app/api?username=VishalNandy17&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=00D9FF&text_color=FFFFFF&custom_title=⚡+GitHub+Statistics&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalNandy17&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=FFFFFF&langs_count=8&custom_title=💻+Language+Distribution" width="49%" />
 
 <br/>
 
-<!-- Advanced Contribution Graph - Real-time -->
+<!-- Advanced Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalNandy17&bg_color=0D1117&color=00FFA3&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=📈+Contribution+Activity+Graph" width="100%" />
 
 <br/>
 
-<!-- Streak Stats with Real-time Updates -->
-<img src="https://streak-stats.demolab.com/?user=VishalNandy17&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FFA3&ring=00D9FF&fire=00FFA3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFA3&sideLabels=00D9FF&dates=FFFFFF&cache_seconds=0" width="70%" />
+<!-- Streak Stats with 3D Effect -->
+<img src="https://streak-stats.demolab.com/?user=VishalNandy17&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FFA3&ring=00D9FF&fire=00FFA3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFA3&sideLabels=00D9FF&dates=FFFFFF" width="70%" />
 
 </div>
 
@@ -257,7 +260,7 @@ graph TB
 <sub><b>Tech Updates</b></sub>
 </td>
 <td align="center" width="25%">
-<a href="mailto:vishal@example.com">
+<a href="mailto:your.email@example.com">
 <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="40" />
 </a>
 <br/>
@@ -286,42 +289,42 @@ graph TB
 
 <div align="center">
 
-<!-- Holopin Badges -->
+<!-- Holopin Badges (3D Style) -->
 <a href="https://holopin.io/@vishalnandy17">
   <img src="https://holopin.me/vishalnandy17" alt="Holopin Badges" />
 </a>
 
 <br/><br/>
 
-<!-- Skill Badges Grid -->
+<!-- Skill Badges in 3D Grid -->
 <img src="https://skillicons.dev/icons?i=solidity,rust,js,ts,react,nextjs,nodejs,python,docker,kubernetes,git,github,vscode,linux,postgres,mongodb,redis,graphql,tailwind,figma&perline=10" />
 
 </div>
 
 ---
 
-## 🎨 3D CONTRIBUTION VISUALIZATION
+## 🎨 3D CONTRIBUTION HEATMAP
 
 <div align="center">
 
-<!-- Enhanced Contribution Calendar - Real-time -->
+<!-- Enhanced Contribution Calendar -->
 <img src="https://ssr-contributions-svg.vercel.app/_/VishalNandy17?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=40&theme=pink" width="90%" />
 
 </div>
 
 ---
 
-## 📈 CODING ACTIVITY
+## 📈 REAL-TIME METRICS
 
 <div align="center">
 
-<!-- Profile Views Counter - Real-time -->
-<img src="https://komarev.com/ghpvc/?username=VishalNandy17&label=PROFILE+VIEWS&color=00FFA3&style=for-the-badge&labelColor=000000" />
+<!-- WakaTime Stats (requires setup) -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=VishalNandy17&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=FFFFFF&layout=compact&custom_title=📊+Weekly+Coding+Activity" width="70%" />
 
 <br/><br/>
 
-<!-- GitHub Stars -->
-<img src="https://img.shields.io/github/stars/VishalNandy17?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00FFA3" />
+<!-- Profile Views Counter with 3D Effect -->
+<img src="https://komarev.com/ghpvc/?username=VishalNandy17&label=PROFILE+VIEWS&color=00FFA3&style=for-the-badge&labelColor=000000" />
 
 </div>
 
@@ -347,8 +350,6 @@ graph TB
 
 **⭐ Star my repositories if you find them interesting!**
 
-<br/>
-
-<img src="https://img.shields.io/github/followers/VishalNandy17?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00FFA3" />
+<img src="https://img.shields.io/github/stars/VishalNandy17?style=social" />
 
 </div>
