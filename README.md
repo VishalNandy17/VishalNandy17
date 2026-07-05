@@ -123,13 +123,3 @@ More on [Medium](https://medium.com/@Iamvshl).
 </div>
 
 ---
-
-## Setup notes (Pac-Man graph)
-
-The Pac-Man animation at the top runs via `.github/workflows/pacman.yml` in this repo:
-
-1. Repo must be named exactly `VishalNandy17/VishalNandy17`.
-2. Push the workflow file to `main`.
-3. **Actions** tab → "generate pacman game" → **Run workflow**.
-4. It creates/updates an `output` branch with the generated SVG — refresh the profile page after a minute.
-5. Runs automatically every 24 hours after that.
