@@ -1,30 +1,26 @@
 <div align="center">
 
-<!-- Pac-Man Contribution Animation (replaces the old snake animation) -->
-<!-- This shows up only AFTER you run the workflow in .github/workflows/pacman.yml once (see setup notes at the bottom) -->
+<!-- Pac-Man Contribution Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishalNandy17/VishalNandy17/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishalNandy17/VishalNandy17/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/VishalNandy17/VishalNandy17/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
-<!-- Standard contribution calendar heatmap - shows immediately, no setup needed -->
-<img src="https://ghchart.rshah.org/2b6cb0/VishalNandy17" alt="Vishal's GitHub contribution graph" width="100%" />
-
 <br/>
 
 # Vishal Nandy
 
-**Blockchain Protocol Engineer · Smart Contract Security**
+**Founder & Lead Engineer, [CORE Platform](https://coreplatform.in)** · Blockchain Protocol Engineer
 
-Building secure, gas-efficient protocols across EVM and non-EVM chains.
+I build AI-powered assessment infrastructure and secure Web3 architectures — from live proctoring engines that scale to 40,000+ concurrent candidates, to gas-optimized smart contracts.
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-nandy-7a04a427b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-nandy-7a04a427b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://vishal-phi-drab.vercel.app/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/vishalnandy17)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![CORE Platform](https://img.shields.io/badge/CORE_Platform-2b6cb0?style=flat-square&logo=googlechrome&logoColor=white)](https://coreplatform.in)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@Iamvshl)
+[![Peerlist](https://img.shields.io/badge/Peerlist-00AA45?style=flat-square&logo=peerlist&logoColor=white)](https://peerlist.io/vishalnandy)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vishal@coreplatform.in)
 
 </div>
 
@@ -32,31 +28,67 @@ Building secure, gas-efficient protocols across EVM and non-EVM chains.
 
 ## About
 
-I design and audit smart contracts and DeFi protocols, with a focus on security, gas optimization, and cross-chain interoperability. My recent work spans AMM design, yield infrastructure, and zero-knowledge proof systems on Ethereum and its L2 ecosystem.
+Currently pursuing my BTech in Computer Science & Engineering at JIS College of Engineering (CGPA: 8.56/10). I design intelligent algorithms for live proctoring and lockdown browsers, and build decentralized protocols on the side.
 
-- 🔭 Currently building decentralized protocol infrastructure
-- 🔐 Interested in formal verification and smart contract security
-- 🌐 Exploring cross-chain messaging and ZK-based scaling
-- 📫 Reach me via the links above
+- 🚀 Founder & Lead Engineer at **[CORE Platform](https://coreplatform.in)** — an AI-powered online examination and proctoring platform
+- 🔐 Background in Solidity smart contract design, DevOps, and cloud architecture (AWS, Kubernetes, Docker)
+- 🎓 BTech CSE, JIS College of Engineering (2023–2027)
+- ✍️ Write on Solidity gas optimization, cloud deployment, and AI ethics on [Medium](https://medium.com/@Iamvshl)
+
+---
+
+## Experience
+
+| Role | Organization | Duration |
+|---|---|---|
+| Founder & Lead Engineer | [CORE Platform](https://coreplatform.in) | Feb 2026 – Present |
+| DevOps & Security Intern | AniBotix Robotics | Feb 2026 – May 2026 |
+| Blockchain Protocol Engineer | HireAway | Oct 2025 – Feb 2026 |
+| Freelance Web Developer | Upwork | Feb 2025 – Oct 2025 |
+| Core Team Member | JISCE Coding Club | Aug 2024 – Oct 2025 |
+
+---
+
+## Featured Projects
+
+**[CORE — AI-Powered Online Examination Platform](https://coreplatform.in)**
+Full-stack proctoring platform with real-time gaze tracking, biometric verification, and lockdown browser controls. Scales to 40,000+ concurrent candidates at 99.8% cheating-anomaly detection accuracy.
+
+**[Cloud-X — Decentralized Cloud Resource Marketplace](https://github.com/vishalnandy17)**
+Web3 full-stack marketplace for peer-to-peer cloud resource trading, containerized with Docker.
+
+**[Vista AI — Smart Real Estate Forecasting](https://devfolio.co)**
+AI-driven property valuation with a Solidity-based verification layer for trustless transactions.
+
+---
+
+## CORE Platform — By the Numbers
+
+<div align="center">
+
+| Metric | Value |
+|---|---|
+| Concurrent candidates handled | **40,000+** |
+| Cheating anomalies prevented | **99.8%** |
+| Gaze-verification latency | **< 250ms** |
+| Service uptime (AWS) | **99.99%** |
+
+</div>
 
 ---
 
 ## Tech Stack
 
-**Blockchain**
-`Solidity` `Rust` `Move` `Vyper` — Hardhat · Foundry · Truffle · Anchor
+<div align="center">
 
-**Web3 Tooling**
-`Ethers.js` `viem` `Wagmi` — IPFS · Arweave · Filecoin — Chainlink · Band Protocol
+<img src="https://skillicons.dev/icons?i=solidity,js,ts,react,nextjs,nodejs,python,aws,docker,kubernetes,git,github,linux,postgres,mongodb,redis&perline=8" />
 
-**Frontend**
-`React` `Next.js` `TypeScript` — Tailwind CSS · RainbowKit · ConnectKit
+</div>
 
-**Security & Testing**
-`Slither` `Mythril` `Echidna` — Mocha · Chai · Waffle
-
-**Infra**
-`Docker` `Kubernetes` — Tenderly · The Graph
+**Blockchain** — Solidity · Algorand · EVM optimization · smart contract security
+**Cloud & Infra** — AWS (Lambda, EC2, ECS Fargate) · Docker · Kubernetes · CloudFront
+**AI/ML** — Real-time gaze tracking, facial verification, behavioral anomaly detection
+**Full Stack** — React · Next.js · Node.js · REST APIs
 
 ---
 
@@ -73,14 +105,14 @@ I design and audit smart contracts and DeFi protocols, with a focus on security,
 
 ---
 
-## Focus Areas
+## Writing
 
-```
-Smart Contract Architecture   → Upgradeable patterns, ERC standards, gas optimization
-DeFi Protocol Development     → AMMs, yield aggregators, liquidity infrastructure
-Security                      → Vulnerability analysis, formal verification
-Interoperability              → Cross-chain bridges, ZK proof systems
-```
+- [Gas Optimization Techniques in Solidity](https://coinsbench.com/gas-optimization-techniques-in-solidity-solidity-best-practices-097561f71dfb) — Aug 2024
+- [Deploying Web Applications on AWS: A Step-by-Step Guide](https://medium.com/devdotcom/deploying-web-applications-on-aws-a-step-by-step-guide-a69e239c5817) — Mar 2024
+- [The DSA Session that Sparked a Revolution: Building CORE Platform](https://coreplatform.in/blog/12/the-dsa-session-that-sparked-a-revolution-building-core-platform)
+- [Neuralink: Revolutionary Technology or Orwellian Control?](https://medium.com/@Iamvshl/neuralink-what-is-it-revolutionary-technology-or-orwellian-control-b7d605668e14) — Feb 2024
+
+More on [Medium](https://medium.com/@Iamvshl).
 
 ---
 
@@ -94,12 +126,10 @@ Interoperability              → Cross-chain bridges, ZK proof systems
 
 ## Setup notes (Pac-Man graph)
 
-The Pac-Man animation at the top needs a one-time setup — GitHub can't run it automatically for you:
+The Pac-Man animation at the top runs via `.github/workflows/pacman.yml` in this repo:
 
-1. Make sure this repo is named exactly `VishalNandy17/VishalNandy17` (the special profile repo).
-2. Add the included `.github/workflows/pacman.yml` file to that repo.
-3. Push it to the `main` branch, then go to the **Actions** tab → select **"generate pacman contribution graph"** → click **"Run workflow"**.
-4. Wait a minute or two — it will create an `output` branch containing the generated SVGs.
-5. Refresh your profile page; the Pac-Man animation will now render.
-
-It will also auto-refresh once a day after that. The `ghchart` calendar above it works instantly and needs no setup, so your contribution graph is never empty while Pac-Man is being set up.
+1. Repo must be named exactly `VishalNandy17/VishalNandy17`.
+2. Push the workflow file to `main`.
+3. **Actions** tab → "generate pacman game" → **Run workflow**.
+4. It creates/updates an `output` branch with the generated SVG — refresh the profile page after a minute.
+5. Runs automatically every 24 hours after that.
